@@ -27,12 +27,6 @@
 			<artifactId>mongodb-driver-sync</artifactId>
 			<version>4.11.1</version>
 		</dependency>
-
-		<dependency>
-			<groupId>dam.accesoDatos</groupId>
-			<artifactId>accesoADatos</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 
